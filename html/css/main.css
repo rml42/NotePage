@@ -1,0 +1,20 @@
+body {
+    background: #393f4d;
+}
+
+header {
+    font-size:80px    
+}
+
+div {
+    font-size:40px
+}
+
+#textField {
+    float: left;
+    width: 80%;
+}
+
+#rightBar {
+    width: 20%
+}
